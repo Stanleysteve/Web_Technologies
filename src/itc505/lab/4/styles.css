@@ -1,0 +1,72 @@
+/* Apply styles for the entire document */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Style the main heading */
+h1 {
+    font-size: 36px;
+    color: #1e90ff; /* Royal Blue */
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+/* Style subheadings */
+h2 {
+    font-size: 28px;
+    color: #FF5733; /* Deep Orange */
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+/* Style paragraph text */
+p {
+    font-size: 18px;
+    color: #333; /* Dark Gray */
+    line-height: 1.6;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+/* Style unordered lists */
+ul {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+/* Style list items */
+li {
+    font-size: 18px;
+    color: #555; /* Gray */
+    padding: 5px;
+}
+
+/* Style strong text within paragraphs and list items */
+strong {
+    font-weight: bold;
+    color: #007f00; /* Green */
+}
+
+/* Add padding to the code sections */
+code {
+    padding: 5px;
+    background-color: #f7f7f7;
+}
+
+/* Highlight links */
+a {
+    color: #e94e77; /* Rose Pink */
+    text-decoration: underline;
+}
+
+/* Style the 'Abstract' section differently */
+h2:first-of-type {
+    color: #007f00; /* Green */
+    font-size: 24px;
+    text-decoration: underline;
+    padding-bottom: 5px;
+}
