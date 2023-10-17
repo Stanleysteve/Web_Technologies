@@ -1,7 +1,7 @@
 /* Apply styles for the entire document */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
+    background-color: ##F1948A;
     margin: 20px;
     padding: 20px;
 }
@@ -44,7 +44,7 @@ li {
     font-size: 18px;
     color: #555; /* Gray */
     padding: 10px; /* Add padding */
-    background-color: #f7f7f7; /* Add background color */
+    background-color: ##F1948A; /* Add background color */
 }
 
 /* Style strong text within paragraphs and list items */
